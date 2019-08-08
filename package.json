@@ -1,0 +1,28 @@
+{
+    "name": "twitter-balancer",
+    "version": "1.0.0",
+    "description": "Keeps your tweet-to-follower ratio in check.",
+    "main": "bin/twitter-balancer.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "twitter-balancer": "bin/twitter-balancer.js"
+    },
+    "keywords": [
+        "twitter",
+        "twitter-api",
+        "node"
+    ],
+    "author": {
+        "name": "George Mandis",
+        "email": "george@mand.is",
+        "url": "https://george.mand.is"
+    },
+    "homepage": "https://github.com/georgemandis/twitter-balancer",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "twitter": "^1.7.1"
+    }
+}
