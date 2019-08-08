@@ -1,5 +1,12 @@
 # Tweeter Totter
 
+
+```
+🦜           🦜
+--____--______--
+      /\
+```
+
 Keep your Twitter tweet-to-follower ratio in check.
 
 You will need to create credentials for your app at [developer.twitter.com](https://developer.twitter.com) and create a hidden JSON file in your home directory at for your operating system:
