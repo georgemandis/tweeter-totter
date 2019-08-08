@@ -1,13 +1,13 @@
 {
-    "name": "twitter-balancer",
+    "name": "tweeter-totter",
     "version": "1.0.0",
-    "description": "Keeps your tweet-to-follower ratio in check.",
-    "main": "bin/twitter-balancer.js",
+    "description": "Keeps your Twitter tweet-to-follower ratio in check.",
+    "main": "bin/tweeter-totter.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "bin": {
-        "twitter-balancer": "bin/twitter-balancer.js"
+        "twitter-balancer": "bin/tweeter-totter.js"
     },
     "keywords": [
         "twitter",
@@ -19,7 +19,7 @@
         "email": "george@mand.is",
         "url": "https://george.mand.is"
     },
-    "homepage": "https://github.com/georgemandis/twitter-balancer",
+    "homepage": "https://github.com/georgemandis/tweeter-totter",
     "license": "ISC",
     "dependencies": {
         "chalk": "^2.4.2",

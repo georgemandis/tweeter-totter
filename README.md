@@ -1,4 +1,3 @@
-# Twitter Balancer
+# Tweeter Totter
 
-Keep your tweet-to-follower ratio in check.
-
+Keep your Twitter tweet-to-follower ratio in check.
