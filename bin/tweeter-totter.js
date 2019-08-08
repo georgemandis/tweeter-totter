@@ -17,7 +17,7 @@
 const Twitter = require("twitter");
 const homedir = require('os').homedir();
 const chalk = require('chalk');
-const credentials_file = `${homedir}/.twitter-balancer.json`;
+const credentials_file = `${homedir}/.tweeter-totter.json`;
 let twitter_credentials, client;
 
 console.log(`\nLoading credentials from ${credentials_file}\n`)
